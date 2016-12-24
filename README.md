@@ -2,7 +2,7 @@ NewPing Library (Ultrasonic Sensors)
 
 Written by Tim Eckel
 
-https://code.google.com/p/arduino-new-ping/
+https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home
 
 Modified for Teensy 3.0 & 3.1
 
